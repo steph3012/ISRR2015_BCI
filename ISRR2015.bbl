@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Parra et~al.(2005)Parra, Spence, Gerson, and Sajda]{parra}
+Lucas~C. Parra, Clay~D. Spence, Adam~D. Gerson, and Paul Sajda.
+\newblock Recipes for the linear analysis of eeg.
+\newblock \emph{NEUROIMAGE}, 28:\penalty0 326--341, 2005.
+
+\end{thebibliography}
